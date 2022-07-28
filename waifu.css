@@ -1,7 +1,7 @@
 
 #waifu {
 	bottom: -1000px;
-	right: 10px;
+	left: 10px;
 	position: fixed;
 	transform: translateY(3px);
 	transition: transform .3s ease-in-out, bottom 3s ease-in-out;
@@ -34,7 +34,6 @@
 
 #waifu-tips {
  opacity:0;
- left:-20px;			
  width:250px;
  height:auto;
  min-height:70px;
